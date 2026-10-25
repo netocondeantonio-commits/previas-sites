@@ -1,0 +1,17 @@
+{
+  "title": "Due Salão de Beleza | Alto da Glória Curitiba - Nota 5,0",
+  "meta": "Due Salão de Beleza no Alto da Glória, Curitiba. Nota 5,0 no Google com 135 avaliações. Ambiente aconchegante, equipe especializada. Ter-Sáb 9h-19h.",
+  "hero_tag": "Excelência em beleza no coração do Alto da Glória",
+  "hero_sub": "Salão de beleza em Curitiba com nota 5,0 no Google e 135 avaliações. Ambiente aconchegante, equipe dedicada e estacionamento para sua comodidade.",
+  "about": "O Due Salão de Beleza está localizado no Alto da Glória, Curitiba, e é reconhecido pela excelência no atendimento e ambiente de bom gosto. Nossa equipe constantemente atualizada oferece o melhor em cuidados capilares e estética, com destaque especial para trabalhos em cabelos curtos. Visite-nos na Rua Euzébio da Motta, 783, e descubra por que somos tão bem avaliados por nossos clientes.",
+  "services": [
+    {"n": "Cabelos", "d": "Cortes, tratamentos e transformações capilares com técnicas atualizadas e profissionais especializados."},
+    {"n": "Coloração", "d": "Serviços de cor personalizados para realçar sua beleza e estilo único."},
+    {"n": "Tratamentos Capilares", "d": "Cuidados profissionais para revitalizar e fortalecer seus fios."},
+    {"n": "Penteados", "d": "Finalização e penteados para o dia a dia ou ocasiões especiais."},
+    {"n": "Estética", "d": "Serviços de embelezamento facial e corporal em ambiente aconchegante."},
+    {"n": "Consultoria de Beleza", "d": "Orientação personalizada para encontrar o visual perfeito para você."}
+  ],
+  "cta": "Agende seu horário e descubra a diferença Due",
+  "wa_msg": "Olá! Gostaria de agendar um horário no Due Salão de Beleza no Alto da Glória."
+}
